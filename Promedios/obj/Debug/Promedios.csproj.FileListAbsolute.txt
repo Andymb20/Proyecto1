@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Andrey\proyecto\Promedios\Promedios\bin\Debug\Promedios.exe.config
+C:\Users\Usuario\Desktop\Andrey\proyecto\Promedios\Promedios\bin\Debug\Promedios.exe
+C:\Users\Usuario\Desktop\Andrey\proyecto\Promedios\Promedios\bin\Debug\Promedios.pdb
+C:\Users\Usuario\Desktop\Andrey\proyecto\Promedios\Promedios\obj\Debug\Promedios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Andrey\proyecto\Promedios\Promedios\obj\Debug\Promedios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Andrey\proyecto\Promedios\Promedios\obj\Debug\Promedios.exe
+C:\Users\Usuario\Desktop\Andrey\proyecto\Promedios\Promedios\obj\Debug\Promedios.pdb
